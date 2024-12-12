@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BuyLocal**
 
-- 🌱 I’m currently learning **Large Language Models, Generative AI,Cloud Computing**
+- 🌱 I’m currently learning **Deep Learning Models, Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhishekIIITD?tab=repositories](https://github.com/AbhishekIIITD?tab=repositories)
 
